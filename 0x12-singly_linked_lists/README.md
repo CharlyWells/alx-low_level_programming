@@ -7,5 +7,4 @@ Format: see example
 If str is NULL, print [0] (nil)
 You are allowed to use printf
 
-
-
+Changes made
