@@ -1,5 +1,9 @@
 #include "main.h"
-
+/**
+ * main prints putchar
+ * written by charlotte wellington
+ * return 0
+ */
 int main(void){
 _putchar('_');
 _putchar('p');
