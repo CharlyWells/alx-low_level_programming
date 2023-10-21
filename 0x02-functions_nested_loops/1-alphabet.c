@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * prints alphabets
- * written by charlotte
  */
 
 void print_alphabet(void)
