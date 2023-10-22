@@ -13,7 +13,7 @@ int i;
 for(i=0; i<9; i++){
     char j;
     for(j='a'; j<='z'; j++)
-       putchar(j);
-       putchar('\n');
+       _putchar(j);
+      _putchar('\n');
 }
 }
