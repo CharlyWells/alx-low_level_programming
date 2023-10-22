@@ -2,7 +2,8 @@
 
 /**
  * print_alphabet_x10 - Print the alphabet ten times.
- *followed by new line
+ * followed by new line
+ * written  by charlotte
  */
 void print_alphabet_x10(void) {
     int i;
