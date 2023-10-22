@@ -5,7 +5,8 @@
  * followed by a new line
  * written by charlotte
  */
-void print_alphabet_x10(void){
+void print_alphabet_x10(void)
+{
       int i;
       char j;
 
